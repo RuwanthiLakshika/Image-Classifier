@@ -1,0 +1,2 @@
+# Image Classifier using Convolutional Neural Networks (CNNs)
+This project demonstrates the creation of an image classifier using Convolutional Neural Networks (CNNs) and deep learning techniques. Our goal is to build a comprehensive classifier capable of accurately identifying and classifying various objects or patterns. To achieve this, we’ll leverage the power of TensorFlow, a popular deep learning framework.
